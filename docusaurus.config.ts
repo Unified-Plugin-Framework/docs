@@ -7,6 +7,11 @@ const config: Config = {
   tagline: 'Build composable applications with plugins',
   favicon: 'img/favicon.ico',
 
+  markdown: {
+    mermaid: true,
+  },
+  themes: ['@docusaurus/theme-mermaid'],
+
   url: 'https://unified-plugin-framework.github.io',
   baseUrl: '/docs/',
 
