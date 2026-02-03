@@ -1,7 +1,3 @@
----
-sidebar_position: 3
----
-
 # ADR-003: React Native with Re.Pack for Cross-Platform UI
 
 ## Status

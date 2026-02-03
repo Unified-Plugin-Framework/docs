@@ -1,7 +1,3 @@
----
-sidebar_position: 4
----
-
 # UI Federation Architecture
 
 This document describes the UI federation architecture using React Native and Re.Pack for Module Federation, enabling cross-platform applications composed from multiple plugin UI modules.

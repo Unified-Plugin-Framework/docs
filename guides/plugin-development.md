@@ -1,7 +1,3 @@
----
-sidebar_position: 2
----
-
 # Plugin Development Guide
 
 This comprehensive guide covers all aspects of developing UPF plugins, from project setup to advanced patterns.

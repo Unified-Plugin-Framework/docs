@@ -1,7 +1,3 @@
----
-sidebar_position: 5
----
-
 # ADR-005: Message Bus Abstraction
 
 ## Status

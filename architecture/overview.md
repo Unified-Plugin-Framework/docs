@@ -1,7 +1,3 @@
----
-sidebar_position: 1
----
-
 # Architecture Overview
 
 This document provides a high-level overview of the Unified Plugin Framework (UPF) architecture, describing the key components, their interactions, and the design principles that guide the system.

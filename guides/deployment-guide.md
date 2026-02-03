@@ -1,7 +1,3 @@
----
-sidebar_position: 3
----
-
 # Deployment Guide
 
 This guide covers deploying UPF applications to various container orchestration platforms including Docker Compose, Kubernetes, and Docker Swarm.

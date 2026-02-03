@@ -1,7 +1,3 @@
----
-sidebar_position: 1
----
-
 # Plugin Manifest Specification
 
 This document provides the complete specification for UPF plugin manifests, including all fields, validation rules, and examples.

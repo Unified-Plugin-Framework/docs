@@ -1,7 +1,3 @@
----
-sidebar_position: 2
----
-
 # Core Interfaces Specification
 
 This document defines the core interfaces that form the foundation of the UPF plugin ecosystem. Infrastructure plugins implement these interfaces to provide essential services.

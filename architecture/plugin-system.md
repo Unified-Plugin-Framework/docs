@@ -1,7 +1,3 @@
----
-sidebar_position: 2
----
-
 # Plugin System Architecture
 
 This document describes the plugin system architecture, including plugin structure, lifecycle management, the plugin registry, and manifest specifications.

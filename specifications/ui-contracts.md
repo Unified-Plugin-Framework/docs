@@ -1,7 +1,3 @@
----
-sidebar_position: 4
----
-
 # UI Contracts Specification
 
 This document defines the frontend state and event contracts for cross-plugin UI communication in the Unified Plugin Framework.

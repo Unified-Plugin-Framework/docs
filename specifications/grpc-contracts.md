@@ -1,7 +1,3 @@
----
-sidebar_position: 3
----
-
 # gRPC Contracts Specification
 
 This document contains the Protocol Buffer definitions for all core UPF interfaces.

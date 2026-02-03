@@ -1,7 +1,3 @@
----
-sidebar_position: 4
----
-
 # ADR-004: Interface-First Plugin Contracts
 
 ## Status

@@ -1,7 +1,3 @@
----
-sidebar_position: 1
----
-
 # Getting Started with UPF
 
 This guide will help you set up your development environment and create your first UPF plugin in under 30 minutes.

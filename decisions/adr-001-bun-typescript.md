@@ -1,7 +1,3 @@
----
-sidebar_position: 1
----
-
 # ADR-001: Bun + TypeScript Runtime
 
 ## Status

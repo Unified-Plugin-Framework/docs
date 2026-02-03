@@ -1,7 +1,3 @@
----
-sidebar_position: 3
----
-
 # Communication Architecture
 
 This document describes the inter-plugin communication patterns in UPF, including gRPC services, streaming, message bus integration, and protocol specifications.

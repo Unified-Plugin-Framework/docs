@@ -1,7 +1,3 @@
----
-sidebar_position: 2
----
-
 # ADR-002: gRPC for Inter-Plugin Communication
 
 ## Status

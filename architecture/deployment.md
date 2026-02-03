@@ -1,7 +1,3 @@
----
-sidebar_position: 5
----
-
 # Deployment Architecture
 
 This document describes the orchestration-agnostic deployment architecture for UPF applications, supporting Docker Compose, Kubernetes, Docker Swarm, and other container orchestrators.
