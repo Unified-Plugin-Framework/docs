@@ -9,6 +9,9 @@ const config: Config = {
 
   markdown: {
     mermaid: true,
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    },
   },
   themes: ['@docusaurus/theme-mermaid'],
 
@@ -19,7 +22,6 @@ const config: Config = {
   projectName: 'docs',
 
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
 
   i18n: {
     defaultLocale: 'en',
@@ -33,6 +35,9 @@ const config: Config = {
         docs: {
           routeBasePath: '/',
           sidebarPath: './sidebars.ts',
+          path: '.',
+          include: ['**/*.md', '**/*.mdx'],
+          exclude: ['**/node_modules/**', 'README.md'],
           editUrl: 'https://github.com/Unified-Plugin-Framework/docs/tree/main/',
         },
         blog: false,
