@@ -31,6 +31,7 @@ const sidebars: SidebarsConfig = {
         'guides/getting-started',
         'guides/plugin-development',
         'guides/deployment-guide',
+        'guides/contributing',
       ],
     },
     {
