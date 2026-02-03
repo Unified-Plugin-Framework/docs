@@ -35,10 +35,15 @@ const config: Config = {
         docs: {
           routeBasePath: '/',
           sidebarPath: './sidebars.ts',
-          path: '.',
-          include: ['**/*.md', '**/*.mdx'],
-          exclude: ['**/node_modules/**', 'README.md'],
+          path: 'docs',
           editUrl: 'https://github.com/Unified-Plugin-Framework/docs/tree/main/',
+          lastVersion: 'current',
+          versions: {
+            current: {
+              label: 'Next 🚧',
+              badge: true,
+            },
+          },
         },
         blog: false,
         theme: {
@@ -57,6 +62,11 @@ const config: Config = {
         src: 'img/logo.svg',
       },
       items: [
+        {
+          type: 'docsVersionDropdown',
+          position: 'left',
+          dropdownActiveClassDisabled: true,
+        },
         {
           type: 'docSidebar',
           sidebarId: 'docsSidebar',
